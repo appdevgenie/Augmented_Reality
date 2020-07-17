@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Augmented Reality</string>
+    <string name="action_settings">Settings</string>
+    <string name="xPosLabel">X:</string>
+    <string name="yPosLabel">Y:</string>
+    <string name="zPosLabel">Z:</string>
+    <string name="markerNameLabel">Name:</string>
+    <string name="moreThanOneMarkerMessage">More than one marker found!</string>
+    <string name="emptyString">---</string>
+</resources>
